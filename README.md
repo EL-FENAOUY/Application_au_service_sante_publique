@@ -1,10 +1,11 @@
 # Application_au_service_de_la_santé_publique
-Ce projet a été réalisé dans le cadre de la formation "Ingénieur Machine Learning" d'OpenClassrooms en partenariat avec Centrale Sup'Elec. Les compétences validées par ce projet sont :
+Ce projet a été réalisé dans le cadre de la formation "Data Scientist" d'OpenClassrooms en partenariat avec Centrale Sup'Elec. Les compétences validées par ce projet sont :
 
-Mettre en place le modèle d'apprentissage supervisé adapté au problème métier
-Évaluer les performances d’un modèle d'apprentissage supervisé
-Adapter les hyperparamètres d'un algorithme d'apprentissage supervisé afin de l'améliorer
-Transformer les variables pertinentes d'un modèle d'apprentissage supervisé
-Des méthodes de Deep Learning (MLP) ont été aussi testés dans ce projet. Une application a commencé à être développé avec le framework Flask. Ces deux compétences n'étaient pas évaluées dans le projet initial.
+Exploratory data analysis à l'aide de Python.
+Nettoyer une base de données d'un format important (> 2 Go)
+Faire des analyses statistiques univariées,bivariées et multivariées pour émettre des hypothèses
+Effectuer les tests statistiques appropriés pour vérifier la significativité des résultats.
+Réfléchissant à une idée d’application.
+Rédaction d'un rapport
 
-Ce projet a été soutenu et validé le 6 août 2021.
+Ce projet a été soutenu et validé le 6 décembre 2021.
